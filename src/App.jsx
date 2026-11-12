@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { ArrowUpRight, Github, Mail, MapPin, Menu, X, Code2, Database, Server, Terminal, GraduationCap, BriefcaseBusiness } from 'lucide-react';
 
 const email = 'ofuluechisom10@gmail.com';
